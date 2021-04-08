@@ -1,11 +1,22 @@
 ﻿<Properties StartupConfiguration="{0FF082FE-A24F-4DCE-A7C1-154DD5664607}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="battleship/Program.cs">
     <Files>
-      <File FileName="battleship/Program.cs" Line="13" Column="1" />
+      <File FileName="battleship/Program.cs" Line="63" Column="49" />
       <File FileName="battleship/Battleship.cs" />
       <File FileName="battleship/Player.cs" />
       <File FileName="battleship/Display.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="battleship" expanded="True">
+            <Node name="battleship" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.battleship PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
